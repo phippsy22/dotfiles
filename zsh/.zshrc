@@ -7,7 +7,6 @@ export ZSH="$HOME/.oh-my-zsh"
 # Path
 source $HOME/antigen.zsh
 source $ZSH/oh-my-zsh.sh
-source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # Install Powerline
 POWERLEVEL9K_INSTALLATION_PATH=$ANTIGEN_BUNDLES/bhilburn/powerlevel9k
